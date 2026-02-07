@@ -1,0 +1,9 @@
+
+{
+  "name": "Impulso Growth Studio",
+  "description": "Una plataforma integral para el crecimiento de negocios: embudo de ventas, arquitectura de ofertas irresistibles y generador de guiones estratégicos impulsado por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
